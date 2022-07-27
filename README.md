@@ -9,3 +9,5 @@ I am open to Opportunities to learn, grow my career, as well as connecting and n
 
 ![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolah1&layout=compact)](https://github.com/jolah1/github-readme-stats)
+
