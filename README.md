@@ -6,8 +6,15 @@ I am a Solution Provider, I enjoy working  with React.js, Javascript, css and ht
 I grow everyday, I can also work with C and PYTHON programming Languages.
 I am open to Opportunities to learn, grow my career, as well as connecting and networking with like minds.
 
+## Find me here:
+https://www.linkedin.com/in/jolade-okunlade-1840a6138
+file:///C:/Users/USER/Documents/JOLADE%20LATEST%20CV.pdf
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/simpleicons.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/simpleicons.svg" />
+
 
 ![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jolah1&layout=compact)](https://github.com/jolah1/github-readme-stats)
+
 
