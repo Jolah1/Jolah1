@@ -6,6 +6,6 @@ I am a Solution Provider, I enjoy working  with React.js, Javascript, css and ht
 I grow everyday, I can also work with C and PYTHON programming Languages.
 I am open to Opportunities to learn, grow my career, as well as connecting and networking with like minds.
 
-[![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1)](https://github.com/anuraghazra/github-readme-stats)
 
+![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
 
