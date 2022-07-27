@@ -8,6 +8,14 @@ I am open to Opportunities to learn, grow my career, as well as connecting and n
 
 ![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
 
+## Projects Live link ?
+- https://soljola.netlify.app/
+- https://jolapeddletech.netlify.app/comingsoon
+- https://joladictionary-app.netlify.app/
+- https://rockpaperjola.netlify.app/
+- https://foodrecipe99.netlify.app/
+and many more :point_right:
+
 ## Find me here:
 https://www.linkedin.com/in/jolade-okunlade-1840a6138
 
