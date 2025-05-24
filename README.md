@@ -3,9 +3,8 @@
 <img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-104/How-to-become-a-SD_Image2.png" alt="Developer Image">
 
 I am a certified and skilled software engineer with a passion for
-creating innovative and visually appealing user interfaces. Proficient
-in a range of Software technologies, including Reactjs, Javascript,
-Webpack, C, Solidity, Git, Github, Linux, shell and Vim. 
+creating innovative products. Proficient
+in rust, solidity, Reactjs, Javascript, C, Git, Github, Linux, shell and Vim. 
 A smart contract security researcher and a Technical Mentor with a strong focus on
 user experience, accessibility, and performance optimization. A
 proactive team player with excellent communication skills, and a
@@ -13,7 +12,8 @@ passion for learning and keeping up-to-date with the latest trends in software e
 
 ![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
 
-## Projects Live link ?
+## Projects?
+- https://github.com/Jolah1/rust_calculator.git
 - https://soljola.netlify.app/
 - https://rockpaperjola.netlify.app/
 - https://joladictionary-app.netlify.app/
