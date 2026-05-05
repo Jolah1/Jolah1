@@ -1,27 +1,111 @@
-# Hi, I'm Jolade :wave: :woman_technologist: :revolving_hearts:
+# Hi, I'm Jolade 👋 💻 ⚙️
 
-<img src="https://crampete-staticfiles.s3.ap-south-1.amazonaws.com/blogs/Blog-104/How-to-become-a-SD_Image2.png" alt="Developer Image">
+<div align="center">
 
-I am a certified and skilled software engineer with a passion for
-creating innovative products. Proficient
-in rust, solidity, Reactjs, Javascript, C, Git, Github, Linux, shell and Vim. 
-A smart contract security researcher and a Technical Mentor with a strong focus on
-user experience, accessibility, and performance optimization. A
-proactive team player with excellent communication skills, and a
-passion for learning and keeping up-to-date with the latest trends in software engineering.
+<img width="717" height="948" alt="Jola headshot" src="https://github.com/user-attachments/assets/e44fa259-8e29-489e-a011-1875b1342272" />
 
-![Jolade's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical)
+**Software Engineer | Rust Developer | Developer Educator**
 
-## Projects?
-- https://github.com/Jolah1/rust_calculator.git
-- https://soljola.netlify.app/
-- https://rockpaperjola.netlify.app/
-- https://joladictionary-app.netlify.app/
+Building robust, performant systems with Rust. Passionate about systems programming, security, privacy and clean code architecture.
 
-and many more :point_right:
+[LinkedIn](https://www.linkedin.com/in/jolade-okunlade-1840a6138) •  [Email](mailto:your-email@example.com)
 
-## Find me here:
-https://www.linkedin.com/in/jolade-okunlade-1840a6138
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **Software Engineer** with a specialized focus on **Rust systems programming**. I design and implement high-performance, reliable systems with an emphasis on memory safety and concurrent architectures.
+
+### Core Expertise
+- 🦀 **Rust** - Systems programming, async/await, memory safety
+- 🏗️ **Systems Design** - CLI tools, backend services, performance optimization
+- 🔒 **Smart Contracts** - Solidity, security-focused development (secondary focus)
+- 🌐 **Full-Stack** - React.js, JavaScript, modern web development
+- 🛠️ **Developer Tools** - Git, GitHub, Linux, Shell scripting, Vim
+- 📚 **Technical Mentoring** - Helping engineers grow and ship better code
+
+### What Drives Me
+I'm passionate about:
+- Writing performant, maintainable code that lasts
+- Exploring low-level systems and memory models
+- Creating developer experiences that spark joy
+- Open-source contributions and knowledge sharing
+- Continuous learning and staying ahead of industry trends
+
+---
+
+## 📊 Stats & Activity
+
+![Jolade's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jolah1&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jolah1&layout=compact&theme=radical)
+
+---
+
+## 🎯 Current Projects
+
+I'm actively developing systems tools and exploring:
+- **Advanced Rust patterns** - async programming, macro systems, performance optimization
+- **CLI tooling** - Command-line utilities that solve real problems
+- **Systems architecture** - Scalable backend services
+- **Smart contract security** - Zero-knowledge proofs and security research
 
 
+---
 
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🎓 Philosophy & Approach
+
+> "Good code is not just functional—it's a conversation with the next developer."
+
+I believe in:
+- **Clarity over cleverness** - Readable code that others can maintain
+- **Test-driven development** - Confidence in your codebase
+- **Incremental improvement** - Small wins compound into mastery
+- **Community first** - Lifting others as we climb
+
+---
+
+## 📫 Get In Touch
+
+I'm always interested in:
+- ✨ Collaborating on Rust projects and systems tools
+- 🤝 Mentoring aspiring engineers
+- 💬 Discussing systems design and architecture
+- 🌍 Open-source contributions
+
+---
+
+## 🏆 Achievements
+
+![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![Pull Shark Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
+
+---
+
+<div align="center">
+
+### "Code is poetry written for machines; architecture is poetry for humans." 
+
+**Feel free to explore my repositories. Every line of code tells a story.** 🚀
+
+</div>
