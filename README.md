@@ -6,8 +6,6 @@
 
 Building robust, performant systems with Rust. Passionate about systems programming, security, privacy and clean code architecture.
 
-[LinkedIn](https://www.linkedin.com/in/jolade-okunlade-1840a6138) •  [Email](mailto:your-email@example.com)
-
 </div>
 
 ---
