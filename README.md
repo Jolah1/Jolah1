@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="717" height="948" alt="Jola headshot" src="https://github.com/user-attachments/assets/e44fa259-8e29-489e-a011-1875b1342272" />
+<img width="500" height="648" alt="Jola headshot" src="https://github.com/user-attachments/assets/e44fa259-8e29-489e-a011-1875b1342272" />
 
 **Software Engineer | Rust Developer | Developer Educator**
 
