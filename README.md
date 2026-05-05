@@ -2,8 +2,6 @@
 
 <div align="center">
 
-<img width="500" height="648" alt="Jola headshot" src="https://github.com/user-attachments/assets/e44fa259-8e29-489e-a011-1875b1342272" />
-
 **Software Engineer | Rust Developer | Developer Educator**
 
 Building robust, performant systems with Rust. Passionate about systems programming, security, privacy and clean code architecture.
@@ -92,13 +90,6 @@ I'm always interested in:
 - 🤝 Mentoring aspiring engineers
 - 💬 Discussing systems design and architecture
 - 🌍 Open-source contributions
-
----
-
-## 🏆 Achievements
-
-![YOLO Badge](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Pull Shark Badge](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 ---
 
